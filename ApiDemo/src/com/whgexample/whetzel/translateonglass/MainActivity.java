@@ -195,9 +195,5 @@ public class MainActivity extends Activity {
         View cardView = card.getView();
         setContentView(cardView);
         //TODO: Read text on Card so it is also audible
-    }
-		
-        
-    
-        	
-} // End of Class
+    }      	
+} 
